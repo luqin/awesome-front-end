@@ -1,3 +1,7 @@
 # FE
 
 * [awesome Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
+
+## 图表
+
+[plotly.js](https://github.com/plotly/plotly.js) Plotly.js 是数据可视化平台 Plotly 开源强大的 JS 图表库，它基于 d3.js 和 stack.gl 。是一个高层次的、描述性的图表库。 plotly.js 带来20种图表类型，包括 3D 图表，统计图表，和 SVG 地图。
