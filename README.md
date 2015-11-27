@@ -1,6 +1,14 @@
 # FE
 
+* [ES6 文章收集](https://github.com/luqin/awesome-front-end/issues/24)
+* [React](https://github.com/luqin/awesome-front-end/issues/19)
+* [React 组件收集](https://github.com/luqin/awesome-front-end/issues/42)
+* [React Native](https://github.com/luqin/awesome-front-end/issues/20)
+* [Redux 收藏](https://github.com/luqin/awesome-front-end/issues/29)
+
 * [awesome Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
+
+* [FE/UED收集](https://github.com/luqin/awesome-front-end/issues/27)
 
 ## 图表
 
