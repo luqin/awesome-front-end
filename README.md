@@ -7,6 +7,7 @@
 * [Redux 收藏](https://github.com/luqin/awesome-front-end/issues/29)
 
 * [awesome Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
+* [front-end-collect - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 
 * [FE/UED收集](https://github.com/luqin/awesome-front-end/issues/27)
 
