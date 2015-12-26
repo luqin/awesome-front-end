@@ -1,4 +1,6 @@
-# FE
+# awesome-front-end
+
+> 欢迎 `watch` 订阅更新
 
 * [ES6 文章收集](https://github.com/luqin/awesome-front-end/issues/24)
 * [React](https://github.com/luqin/awesome-front-end/issues/19)
