@@ -7,7 +7,7 @@
 * [React 组件收集](https://github.com/luqin/awesome-front-end/issues/42)
 * [React Native](https://github.com/luqin/awesome-front-end/issues/20)
 * [Redux 收集](https://github.com/luqin/awesome-front-end/issues/29)
-* [webpack 收集](https://github.com/luqin/awesome-front-end/issues)
+* [webpack 收集](https://github.com/luqin/awesome-front-end/issues/46)
 
 * [awesome Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
 * [front-end-collect - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
