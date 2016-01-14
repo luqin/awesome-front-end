@@ -2,14 +2,17 @@
 
 > 欢迎 `watch` 订阅更新
 
-* [ES6 文章收集](https://github.com/luqin/awesome-front-end/issues/24)
-* [React](https://github.com/luqin/awesome-front-end/issues/19)
-* [React 组件收集](https://github.com/luqin/awesome-front-end/issues/42)
-* [React Native](https://github.com/luqin/awesome-front-end/issues/20)
-* [Redux 收集](https://github.com/luqin/awesome-front-end/issues/29)
-* [webpack 收集](https://github.com/luqin/awesome-front-end/issues/46)
+## 收藏
 
-相关资源仓库：
+* [ES6](https://github.com/luqin/awesome-front-end/issues/24)
+* [React](https://github.com/luqin/awesome-front-end/issues/19)
+* [React](https://github.com/luqin/awesome-front-end/issues/42)
+* [React Native](https://github.com/luqin/awesome-front-end/issues/20)
+* [Redux](https://github.com/luqin/awesome-front-end/issues/29)
+* [webpack](https://github.com/luqin/awesome-front-end/issues/46)
+* [前端工程](https://github.com/luqin/awesome-front-end/issues/45)
+
+## 相关资源仓库：
 
 * [Front-end-Developer-Interview-Questions - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [awesome Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
