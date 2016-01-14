@@ -6,7 +6,7 @@
 
 * [ES6](https://github.com/luqin/awesome-front-end/issues/24)
 * [React](https://github.com/luqin/awesome-front-end/issues/19)
-* [React](https://github.com/luqin/awesome-front-end/issues/42)
+* [React 组件收集](https://github.com/luqin/awesome-front-end/issues/42)
 * [React Native](https://github.com/luqin/awesome-front-end/issues/20)
 * [Redux](https://github.com/luqin/awesome-front-end/issues/29)
 * [webpack](https://github.com/luqin/awesome-front-end/issues/46)
