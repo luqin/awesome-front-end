@@ -24,6 +24,6 @@
 * [国内FE/UED收集](https://github.com/luqin/awesome-front-end/issues/27)
 * [一些前端的最佳实践，包括 HTML, CSS, JS](https://github.com/dyygtfx/front-end-best-practices)
 
-## 图表
+## Libraries
 
-[plotly.js](https://github.com/plotly/plotly.js) Plotly.js 是数据可视化平台 Plotly 开源强大的 JS 图表库，它基于 d3.js 和 stack.gl 。是一个高层次的、描述性的图表库。 plotly.js 带来20种图表类型，包括 3D 图表，统计图表，和 SVG 地图。
+- [plotly.js](https://github.com/plotly/plotly.js) Plotly.js 是数据可视化平台 Plotly 开源强大的 JS 图表库，它基于 d3.js 和 stack.gl 。是一个高层次的、描述性的图表库。 plotly.js 带来20种图表类型，包括 3D 图表，统计图表，和 SVG 地图。
