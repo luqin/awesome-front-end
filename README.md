@@ -12,7 +12,7 @@
 * [webpack](https://github.com/luqin/awesome-front-end/issues/46)
 * [前端工程](https://github.com/luqin/awesome-front-end/issues/45)
 
-## 相关资源仓库：
+## 资源：
 
 * [Front-end-Developer-Interview-Questions - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [awesome Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
@@ -22,6 +22,7 @@
 * [Front-end-Interview-questions - 前端开发面试问题及答案整理](https://github.com/hawx1993/Front-end-Interview-questions)
 * [front-end-collect - 前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 * [国内FE/UED收集](https://github.com/luqin/awesome-front-end/issues/27)
+* [一些前端的最佳实践，包括 HTML, CSS, JS](https://github.com/dyygtfx/front-end-best-practices)
 
 ## 图表
 
