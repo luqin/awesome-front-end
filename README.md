@@ -14,13 +14,13 @@
 
 ## 资源：
 
-* [Front-end-Developer-Interview-Questions - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 * [awesome Front-end Development](https://github.com/sindresorhus/awesome#front-end-development)
-* [frontend-dev-bookmarks - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
 * [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn)
-* [front-end-handbook - The resources and tools for learning about the practice of front-end development.](https://github.com/FrontendMasters/front-end-handbook)
-* [Front-end-Interview-questions - 前端开发面试问题及答案整理](https://github.com/hawx1993/Front-end-Interview-questions)
-* [front-end-collect - 前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
+* [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
+* [Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions) - 前端开发面试问题及答案整理
+* [front-end-collect](https://github.com/foru17/front-end-collect) - 前端开发相关的优秀网站、博客、以及活跃开发者
 * [国内FE/UED收集](https://github.com/luqin/awesome-front-end/issues/27)
 * [一些前端的最佳实践，包括 HTML, CSS, JS](https://github.com/dyygtfx/front-end-best-practices)
 
