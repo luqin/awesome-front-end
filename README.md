@@ -24,6 +24,7 @@
 * [国内FE/UED收集](https://github.com/luqin/awesome-front-end/issues/27)
 * [一些前端的最佳实践，包括 HTML, CSS, JS](https://github.com/dyygtfx/front-end-best-practices)
 * [Front-end-tutorial](https://github.com/AutumnsWind/Front-end-tutorial) - 最全的资源教程-前端涉及的所有知识体系
+* [FEX技术周凯](http://fex.baidu.com/weekly/)
 
 ## Libraries
 
